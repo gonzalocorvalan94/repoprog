@@ -1,0 +1,19 @@
+{
+  "name": "tp1nodejs",
+  "version": "1.0.0",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "start": "nodemon ejercicio1.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon":"^3.1.10"
+  }
+}
